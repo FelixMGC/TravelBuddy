@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="@string/menu_home"
+            android:icon="@drawable/ic_action_home"/>
+        <item
+            android:id="@+id/destination"
+            android:title="@string/menu_add_detour"
+            android:icon="@drawable/ic_action_destination"/>
+        <item
+            android:id="@+id/history"
+            android:title="@string/menu_history"
+            android:icon="@drawable/ic_action_history"/>
+        <item
+            android:id="@+id/clearRoute"
+            android:title="@string/menu_clear_route"
+            android:icon="@drawable/ic_action_clearroute"/>
+        <item
+            android:id="@+id/settings"
+            android:title="@string/menu_settings"
+            android:icon="@drawable/ic_action_settings"/>
+    </group>
+</menu>

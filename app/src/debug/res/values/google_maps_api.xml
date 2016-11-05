@@ -1,0 +1,32 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=82:39:C7:FE:0E:91:48:2A:A2:D5:18:76:5E:67:D4:A6:4D:8C:FF:A7%3Bcom.example.felgutierrez.travelbuddy
+
+    You can also add your credentials to an existing key, using this line:
+    82:39:C7:FE:0E:91:48:2A:A2:D5:18:76:5E:67:D4:A6:4D:8C:FF:A7;com.teambee.travelbuddy
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+
+    Key 2
+
+    AIzaSyAh3JrS3R8F7tCNtDfU1U0AgkEE8u_EoSk
+
+    Key 3
+
+    AIzaSyB4PaIPa4CP_5CgOfYSvFQHnLGeYtqokRk
+
+    -->
+<!-- -This is Jimmy's key
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAh3JrS3R8F7tCNtDfU1U0AgkEE8u_EoSk</string> <!- -->
+
+<!--This is Felix's key -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC1Cw4MxSn8W1JZLJq0IadgMESLmNu-WCg</string>
+</resources>

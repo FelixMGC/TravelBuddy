@@ -1,0 +1,7 @@
+#Tue Nov 01 00:10:23 EDT 2016
+base.0=/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ff5f16fe6beb74c14f6548692577b301d0339c82
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d376ac047d3c812a55475670eec53e8a21621bd1/classes.dex
+base.1=/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d376ac047d3c812a55475670eec53e8a21621bd1
+file.0=/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ff5f16fe6beb74c14f6548692577b301d0339c82/classes.dex

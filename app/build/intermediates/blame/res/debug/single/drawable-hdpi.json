@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_home.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_home.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_gas_stations.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_gas_stations.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_open_close.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_open_close.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_clear_layer.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_clear_layer.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_destination.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_destination.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_restaurants.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_restaurants.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_route.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_route.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_settings.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_hotels.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_hotels.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_preserves.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_preserves.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_clearroute.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_clearroute.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_layers.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_layers.png"
+    },
+    {
+        "merged": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_history.png",
+        "source": "/Users/felgutierrez/TB_AndroidGroupApp/TravelBuddy/app/src/main/res/drawable-hdpi/ic_action_history.png"
+    }
+]
